@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Filipe',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -42,37 +42,37 @@ const CONFIG = {
       id: '1',
       name: 'Github',
       icon: 'github',
-      link: 'https://github.com/',
+      link: 'https://github.com/datsfilipe',
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'Dev.to',
+      icon: 'file-text',
+      link: 'https://dev.to',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Twitter',
+      icon: 'twitter',
+      link: 'https://twitter.com',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Notion',
+      icon: 'edit',
+      link: 'https://notion.so',
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
+      name: 'Gaules TV',
+      icon: 'twitch',
+      link: 'https://twitch.tv/gaules',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Mail',
+      icon: 'mail',
+      link: 'https://gmail.com/',
     },
   ],
 
@@ -81,45 +81,45 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'headphones',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Lo-fi',
+        link: 'https://lofi.co/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Hip Hop',
+        link: 'https://open.spotify.com/playlist/5W7p8ODbxuohyYEe2sPaGx?si=8d22ccd2ec264206',
       },
       {
         name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://open.spotify.com/playlist/6P3Wfx6mwK8edhOOM2K65P?si=7717603e5f5046fd',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Rock Nostalgic',
+        link: 'https://open.spotify.com/playlist/07wbYOgm1iuqXbOjQrHohs?si=66daa24de2b64b00',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Youtube',
+        link: 'https://youtube.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Github /explore',
+        link: 'https://github.com/explore',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Chess',
+        link: 'https://chess.com',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Read.cv',
+        link: 'https://read.cv/explore',
       },
     ],
   },
